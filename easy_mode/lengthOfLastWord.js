@@ -11,4 +11,6 @@ var lengthOfLastWord = function (s) {
   return lastWordLength.length;
 };
 
+// o bloco de códigos abaixo é somente para teste local
+
 console.log(lengthOfLastWord("Hello World"));

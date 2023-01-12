@@ -12,5 +12,6 @@ def searchInsert(nums: List[int], target: int) -> int:
         return nums.index(target)  # retorna o indice do target
 
 
+# o bloco de códigos abaixo é somente para teste local
 output = searchInsert(nums=[1, 3, 5, 6], target=2)
 print(output)

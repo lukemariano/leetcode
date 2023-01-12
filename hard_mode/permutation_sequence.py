@@ -27,4 +27,5 @@ def getPermutation(n: int, k: int) -> str:
     return resultado  # output
 
 
+# o bloco de códigos abaixo é somente para teste local
 print(getPermutation(n=3, k=3))

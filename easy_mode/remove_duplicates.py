@@ -42,6 +42,8 @@ class Solution:
         return head
 
 
+# o bloco de códigos abaixo é somente para teste local
+
 if __name__ == "__main__":
     data_input = [1, 1, 2, 3, 3]  # input teste
     tail = head = ListNode(data_input[0])

@@ -19,4 +19,6 @@ var firstMissingPositive = function (nums) {
   return min;
 };
 
+// o bloco de códigos abaixo é somente para teste local
+
 console.log(firstMissingPositive([1, 2, 0]));

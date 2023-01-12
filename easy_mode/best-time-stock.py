@@ -14,6 +14,7 @@ class Solution:
         return max_profit
 
 
+# o bloco de códigos abaixo é somente para teste local
 if __name__ == "__main__":
     resposta = Solution()
     print(resposta.maxProfit([7, 1, 5, 3, 6, 4]))

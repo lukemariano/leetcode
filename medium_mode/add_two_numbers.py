@@ -65,6 +65,8 @@ class Solution:
         return head
 
 
+# o bloco de códigos abaixo é somente para teste local
+
 if __name__ == "__main__":
     data_input = [[2, 4, 3], [5, 6, 4]]  # input teste --> 2 listas
 

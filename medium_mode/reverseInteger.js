@@ -48,6 +48,7 @@ var reverseIntegers = function (x) {
   }
 };
 
+// o bloco de códigos abaixo é somente para teste local
 let inputTest = -123;
 
 console.log(reverseIntegers(inputTest));

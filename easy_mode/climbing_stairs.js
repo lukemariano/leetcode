@@ -33,4 +33,6 @@ var climbStairs = function (n) {
   }
 };
 
+// o bloco de códigos abaixo é somente para teste local
+
 console.log(climbStairs(4));
