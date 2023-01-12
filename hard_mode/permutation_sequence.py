@@ -1,3 +1,5 @@
+# link para o problema em questão: https://leetcode.com/problems/permutation-sequence/description/
+
 from itertools import permutations
 
 
